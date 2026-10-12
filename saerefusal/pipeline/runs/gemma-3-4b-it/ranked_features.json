@@ -1,0 +1,54 @@
+{
+  "google/gemma-3-4b-it": [
+    {
+      "rank": 1,
+      "feature_idx": 1648,
+      "cos_sim": 0.6397417783737183
+    },
+    {
+      "rank": 2,
+      "feature_idx": 121,
+      "cos_sim": 0.6321418881416321
+    },
+    {
+      "rank": 3,
+      "feature_idx": 1119,
+      "cos_sim": 0.6283512711524963
+    },
+    {
+      "rank": 4,
+      "feature_idx": 624,
+      "cos_sim": 0.6279544234275818
+    },
+    {
+      "rank": 5,
+      "feature_idx": 2580,
+      "cos_sim": 0.6252680420875549
+    },
+    {
+      "rank": 6,
+      "feature_idx": 302,
+      "cos_sim": 0.6242769360542297
+    },
+    {
+      "rank": 7,
+      "feature_idx": 63,
+      "cos_sim": 0.6220013499259949
+    },
+    {
+      "rank": 8,
+      "feature_idx": 1074,
+      "cos_sim": 0.6208082437515259
+    },
+    {
+      "rank": 9,
+      "feature_idx": 1312,
+      "cos_sim": 0.6202999353408813
+    },
+    {
+      "rank": 10,
+      "feature_idx": 407,
+      "cos_sim": 0.6201608777046204
+    }
+  ]
+}
